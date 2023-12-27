@@ -5,4 +5,4 @@ This is a repository that contains summaries and examples of all the chapters in
 Chapter - 1 : Binary Search (12/26/23) <br>
 Chapter - 2 : Array , LinkList & Selection Sort (12/26/23) <br>
 Chapter - 3 : Recursion (12/26/23) <br>
-Chapter - 4 : Divide and Conquer
+Chapter - 4 : Divide and Conquer (12/27/23) <br>

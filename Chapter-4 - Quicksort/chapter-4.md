@@ -1,4 +1,4 @@
-# Summary of Chapter - 3
+# Summary of Chapter - 4
 
 ### Divide & Conquer (D&C)
 

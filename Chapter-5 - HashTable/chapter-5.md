@@ -10,7 +10,6 @@
 - 5. They’re also known as hash maps, maps, dictionaries, and associative arrays.
 - 6. A hash table has keys and values.
 - 7. You can use Python’s hash tables and assume that you’ll get the
-     average case performance: constant time.
-- 8. 
+     average case performance: constant time. 
      ![Alt text](image-3.png)
      ![Alt text](image.png) ![Alt text](image-1.png)
